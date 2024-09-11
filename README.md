@@ -28,12 +28,6 @@ Output the extracted text to a file or display it on-screen for easy copying. :p
 - Easy to use: Simply load an image and let the tool handle the rest! :zap:
 
 
-## Some screenshots for you :)
-- watch it in action!
-    - [here]()
-    - [another!]()
-
-
 ## :wink: Stay in Touch! :v::heart:
 Let’s connect! You can find uniquepersun here:
 - [X (formerly twitter)](https://x.com/uniquepersun) <br>
