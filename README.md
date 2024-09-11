@@ -4,7 +4,7 @@ a OCR (Optical Character Recognition) tool built with Python to extract text fro
 
 
 ## Usage
-grab the latest release from the [releases page](https://github.com/uniquepersun/ocr-text-reciognition-with-python/releases) or clone the repo and jump in! :clap:
+clone the repo and install all the dependencies by following instructions and start your own ocr journey!!
 
   
 ## Requirements :smiley::
