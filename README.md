@@ -20,6 +20,7 @@ and start doing fun stuff!
 Load an image containing text using the application. :frame_with_picture:
 The OCR engine processes the image and extracts text data. :memo:
 Output the extracted text to a file or display it on-screen for easy copying. :page_with_curl:
+[here is a screenshot](https://github.com/user-attachments/assets/76f164c2-810c-4bd0-842b-1c03d57f5854)
 
 ##  Features :sparkles:
 - Accurate text recognition: Utilizes advanced OCR libraries for precise text extraction. :robot:
